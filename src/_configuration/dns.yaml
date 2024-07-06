@@ -1,0 +1,19 @@
+dns_records:
+  - name:
+    value:
+    type:
+    ttl:
+    data: []
+
+  - name:
+    value:
+    type:
+    ttl:
+    data:
+      - service:
+        proto:
+        name:
+        priority:
+        weight:
+        port:
+        target:
